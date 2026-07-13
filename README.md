@@ -46,7 +46,7 @@ The AI extracts structured information from natural language, stores it in Postg
 
 - LangGraph
 - Groq API
-- Gemma2-9B-IT LLM
+- llama-3.1-8b-instant
 
 ---
 
