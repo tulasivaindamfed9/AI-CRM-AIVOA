@@ -195,16 +195,6 @@ Change the sentiment to Neutral and update the follow up actions to schedule ano
 
 ---
 
-## Future Enhancements
-
-- Search Interaction Tool
-- Interaction Summary Tool
-- AI Suggestions
-- Authentication
-- Dashboard & Analytics
-
----
-
 ## Author
 
 Tulasi Vaindam
